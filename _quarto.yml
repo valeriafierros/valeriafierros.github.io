@@ -5,16 +5,12 @@ website:
   title: "Valeria Fierros"
   navbar:
     left:
-       - href: index.qmd
+      - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - href: Projects.qmd
-        text: Projects
-      - href: reading.qmd
-        text: Reading
-      - href: resume.qmd
-        text: Resume
+      - about.qmd
+      - Projects.qmd
+      - reading.qmd
+      - resume.qmd
 
 format:
   html:
