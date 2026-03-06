@@ -2,20 +2,24 @@ project:
   type: website
 
 website:
-  title: "valeriafierros.github.io"
+  title: "Valeria Fierros"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Projects.qmd
+      - reading.qmd
+      - resume.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - quartz
       - brand
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

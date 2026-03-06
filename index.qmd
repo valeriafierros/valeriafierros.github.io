@@ -1,11 +1,15 @@
 ---
-title: "valeriafierros.github.io"
+title: "Valeria Fierros"
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links: 
+    - text: LinkedIn
+      href: https://www.linkedin.com/feed/
+    - text: GitHub
+      href: https://github.com/valeriafierros/valeriafierros.github.io
+    - text: Email
+      href: valeriafierros@ucsb.edu
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
